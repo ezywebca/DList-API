@@ -20,7 +20,7 @@ export default class ReadyHandler implements EventHandler {
             activity: {
                 name: config.bot.activity,
                 type: 'WATCHING',
-                url: 'https://dlist.xyz'
+                url: 'https://PhoxList.glitch.me'
             }            
         });
         

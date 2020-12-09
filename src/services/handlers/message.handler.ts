@@ -11,12 +11,12 @@ export default class MessageHandler implements EventHandler {
     async invoke(msg: Message) {
         if (msg.author.bot) return;
 
-        const prefix = '.dl ';
+        const prefix = '.pl ';
         const isCommand = msg.content.startsWith(prefix);
         if (isCommand)
             return this.commands.handle(msg, prefix);
         
         if (msg.content === `<@!${msg.client.user.id}>`)       
-            return msg.reply(`The prefix is \`${prefix}\`\nType \`.dl help\` to list commands.`);
+            return msg.reply(`The prefix is \`${prefix}\`\nType \`.pl help\` to list commands.`);
     }
 }

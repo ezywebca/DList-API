@@ -8,8 +8,8 @@ export default class HelpCommand implements Command {
     
     execute = async (ctx: CommandContext) => {
         return ctx.channel.send(
-            '`.pl help` -> show this\n' +
-            '`.pl bump` -> bump a server\n' +
-            '`.pl invite` -> update server invite');
+            '`b/ help` -> show this\n' +
+            '`b/ bump` -> bump a server\n' +
+            '`b/ invite` -> update server invite');
     }
 }

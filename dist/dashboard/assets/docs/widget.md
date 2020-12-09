@@ -6,11 +6,11 @@
 Learn how to use cool widgets that you can use to show off your server, and get more votes.
 
 ## Server Widget
-**URL**: `https://dlist.xyz/api/v1/guilds/[serverId]/widget`
+**URL**: `https://PhoxList.glitch.me/api/v1/guilds/[serverId]/widget`
 
 **HTML Widget Syntax**:
 ```
-<a href="https://dlist.xyz/guilds/yourserverId">
+<a href="https://PhoxList.glitch.me/guilds/yourserverId">
   <img src="https://dlist.xyz/api/v1/guilds/[serverId]/widget" alt="View on DList">
 </a>
 ```

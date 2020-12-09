@@ -1,5 +1,5 @@
 <title>How It Works</title>
-<description>How algorithms work on DList, and more.</description>
+<description>How algorithms work on PhoxList, and more.</description>
 <url>how-it-works</url>
 
 # How It Works

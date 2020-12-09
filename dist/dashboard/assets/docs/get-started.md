@@ -1,9 +1,9 @@
 <title>Get Started</title>
-<description>How to get started with DList. This guide will show you how to get started with DList, and add a server, then bump it.</description>
+<description>How to get started with PhoxList . This guide will show you how to get started with PhoxList, and add a server, then bump it.</description>
 <url>get-started</url>
 
 # Get Started
-This guide will show you how to get started with DList, and add a server, then bump it.
+This guide will show you how to get started with PhoxList, and add a server, then bump it.
 
 ## Step 1
 **Add the bot to your server**
